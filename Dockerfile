@@ -1,4 +1,4 @@
-FROM alpine
+FROM arm32v6/alpine:3.6
 MAINTAINER Steffen Bleul <sbl@blacklabelops.com>
 
 ARG DUPLICITY_VERSION=latest
