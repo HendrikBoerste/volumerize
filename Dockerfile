@@ -1,4 +1,4 @@
-FROM blacklabelops/alpine:3.6
+FROM alpine
 MAINTAINER Steffen Bleul <sbl@blacklabelops.com>
 
 ARG DUPLICITY_VERSION=latest
